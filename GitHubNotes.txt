@@ -1,5 +1,21 @@
-Repository - Basic Unit of GitHub ( usually Single Project )
+Repository    - Basic Unit of GitHub ( usually Single Project )
+Issue         - Note on a Repository
+Master        - main branch created at init
+pull request  - asking for changes to be incorporated (merge)
+diffs         - differences
+
+// Basic Push --------------------
+git init
+git add <file>
+git commit -m "<note>"
+git remote add origin https://github.com/<username>/<proj>.git
+git push -u origin master
+//end Basic Push -----------------
 
 
 git config --global --edit
 git commit --amend --reset-author
+
+Citations
+https://guides.github.com/activities/hello-world/
+http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1
