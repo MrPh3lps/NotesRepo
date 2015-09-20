@@ -1,0 +1,5 @@
+Repository - Basic Unit of GitHub ( usually Single Project )
+
+
+git config --global --edit
+git commit --amend --reset-author
