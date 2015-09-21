@@ -5,6 +5,29 @@ Pull Request  - asking for changes to be incorporated (merge)
 Diffs         - differences
 Commit        - snapshot
 
+Normalize Line Endings:: git config --global core.autocrlf true
+Normalize Line Endings:: git config --global core.autocrlf input
+git config --global color.ui auto
+
+// < CMDs >------------------------
+
+git + 
+
+init
+config
+help
+status
+add
+commit -m
+branch
+git checkout
+merge
+push
+pull
+remote -v
+
+
+// </ CMDs >-----------------------
 //< Basic Push >--------------------
 
 git init
